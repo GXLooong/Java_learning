@@ -26,7 +26,7 @@
 
 * ctrl+shift+p  →  搜索install  →  选择Package Control:Install Package  →  跳出插件包选择界面  →  搜索convertToUTF8  →  选中，直接安装
 
-  <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826201153027.png" alt="image-20220826201153027" style="zoom:50%;" />
+  <img src=".\picture\image-20220826201153027.png" alt="image-20220826201153027" style="zoom:50%;" />
 
 （会跳出一个Package Control Messages文件，不用管它，直接关掉就可以）
 
@@ -34,7 +34,7 @@
 
 * **Set File Encoding to**选项内第一项就是我们要的GBK编码格式
 
-  <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826201431767.png" alt="image-20220826201431767" style="zoom:50%;" />
+  <img src=".\picture\image-20220826201431767.png" alt="image-20220826201431767" style="zoom:50%;" />
 
 
 
@@ -48,7 +48,7 @@
 >
 > ​		an error occurred installing package control
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826163853378.png" alt="image-20220826163853378" style="zoom: 50%;" />
+<img src=".\picture\image-20220826163853378.png" alt="image-20220826163853378" style="zoom: 50%;" />
 
 
 
@@ -70,7 +70,7 @@
 
 * 4.重启sublime，使用快捷键ctrl+shift+p启动对话框，搜索Install Package即可看到Package Control：Install Package選項，如下圖
 
-  ![image-20220826165137971](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826165137971.png)
+  ![image-20220826165137971](.\picture\image-20220826165137971.png)
 
 
 
@@ -78,7 +78,7 @@
 >
 > 点击上面的选项，应该跳出**插件包选择界面**，如下图
 >
-> <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826173148471.png" alt="image-20220826173148471" style="zoom:50%;" />
+> <img src=".\picture\image-20220826173148471.png" alt="image-20220826173148471" style="zoom:50%;" />
 >
 > 但是却出现error：
 >
@@ -103,9 +103,9 @@
 * 1.下载之后得到一个压缩包，将里面的channel_v3.json解压到任意一个文件夹里
 * 2.在sublime里点击：**Preferences->Package Settings ->Package Control ->Settings-User**
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826174046854.png" alt="image-20220826174046854" style="zoom: 50%;" />
+<img src=".\picture\image-20220826174046854.png" alt="image-20220826174046854" style="zoom: 50%;" />
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826174443407.png" alt="image-20220826174443407" style="zoom:50%;" />
+<img src=".\picture\image-20220826174443407.png" alt="image-20220826174443407" style="zoom:50%;" />
 
 * 3.修改打开的这个配置文件：
 
@@ -125,17 +125,17 @@
 
 > 1、如果要将文件名由Hello改为其它名字，则类名也要改否则会出现下面这种情况
 >
-> <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826203815502.png" alt="image-20220826203815502" style="zoom:50%;" />
+> <img src=".\picture\image-20220826203815502.png" alt="image-20220826203815502" style="zoom:50%;" />
 >
 > ​		类名是Hello，文件名为oldwang.java,报错
 >
-> <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826203850311.png" alt="image-20220826203850311" style="zoom:50%;" />
+> <img src=".\picture\image-20220826203850311.png" alt="image-20220826203850311" style="zoom:50%;" />
 >
 > ​		类名是Oldwang，文件名为oldwang.java,报错
 >
 > 2.类名首字母必须得大写，从而java文件名首字母也要大写，否则会出现以下情况：
 >
-> <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220826204155676.png" alt="image-20220826204155676" style="zoom:50%;" />
+> <img src=".\picture\image-20220826204155676.png" alt="image-20220826204155676" style="zoom:50%;" />
 
 
 
@@ -173,23 +173,23 @@
 >
 > 
 >
-> 8.<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220827172213714.png" alt="image-20220827172213714" style="zoom: 80%;" />
+> 8.<img src=".\picture\image-20220827172213714.png" alt="image-20220827172213714" style="zoom: 80%;" />
 >
 > 9.DOS，**Disk Operating System**,磁盘操作系统
 >
 > 
 >
-> 10.<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220904152825679.png" alt="image-20220904152825679" style="zoom: 33%;" />（0045
+> 10.<img src=".\picture\image-20220904152825679.png" alt="image-20220904152825679" style="zoom: 33%;" />（0045
 >
 > 
 >
-> 11.<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220904152851783.png" alt="image-20220904152851783" style="zoom: 33%;" />（0046）
+> 11.<img src=".\picture\image-20220904152851783.png" alt="image-20220904152851783" style="zoom: 33%;" />（0046）
 >
 > 
 >
 > 12、ASCⅡ编码、Unicode编码、UTF-8编码 辨析：
 >
-> ​	![image-20220904160201964](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220904160201964.png)
+> ​	![image-20220904160201964](.\picture\image-20220904160201964.png)
 >
 > ​	编码间转换的一个网址:[Unicode编码转换 - 站长工具 (chinaz.com)](https://tool.chinaz.com/Tools/Unicode.aspx)
 >
@@ -197,7 +197,7 @@
 >
 > ​			**精度小**的数据类型自动转化为**精度大**的数据类型（在java中进行赋值或者运算时）
 >
-> <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220904161954985.png" alt="image-20220904161954985" style="zoom:50%;" />
+> <img src=".\picture\image-20220904161954985.png" alt="image-20220904161954985" style="zoom:50%;" />
 >
 > ​			(byte,short)和char之间不会进行相互转换，但是三者间可以进行计算，计算之前首先转换为int类型
 >
@@ -211,7 +211,7 @@
 >
 > ​		char类型可以保存int的常量值，但不可以保存int类型的变量值
 >
-> ​														![image-20220904164533929](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220904164533929.png)
+> ​														![image-20220904164533929](.\picture\image-20220904164533929.png)
 >
 > 
 >
@@ -219,15 +219,15 @@
 >
 > ​		将String类型转为基本数据类型时，**要确保String类型能够转换成有效的数据**，否则会在运行（java而不是javac）时出现**Unkonwn Source**错误，**抛出异常，程序终止**
 >
-> ​					<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220904170654640.png" alt="image-20220904170654640" style="zoom:50%;" />
+> ​					<img src=".\picture\image-20220904170654640.png" alt="image-20220904170654640" style="zoom:50%;" />
 >
-> ​			<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220904171050026.png" alt="image-20220904171050026" style="zoom: 50%;" />
+> ​			<img src=".\picture\image-20220904171050026.png" alt="image-20220904171050026" style="zoom: 50%;" />
 >
 > 
 >
 > 16、奇怪的自增运算符：
 >
-> ​			<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220905081906290.png" alt="image-20220905081906290" style="zoom:50%;" />
+> ​			<img src=".\picture\image-20220905081906290.png" alt="image-20220905081906290" style="zoom:50%;" />
 >
 > ​	
 >
@@ -235,7 +235,7 @@
 >
 > ​			
 >
-> <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220905182915456.png" alt="image-20220905182915456" style="zoom:50%;" />
+> <img src=".\picture\image-20220905182915456.png" alt="image-20220905182915456" style="zoom:50%;" />
 >
 > 18、Java标识符命名**规则**和**规范**：
 >
@@ -257,7 +257,7 @@
 >
 > **规范**：（最好遵守、显得专业）
 >
-> <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220905191745890.png" alt="image-20220905191745890" style="zoom:67%;" />
+> <img src=".\picture\image-20220905191745890.png" alt="image-20220905191745890" style="zoom:67%;" />
 >
 > 
 >
@@ -293,13 +293,13 @@
 >
 > 23.jvm的 **二维数组内存形式**
 >
-> <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220913142206388.png" alt="image-20220913142206388" style="zoom: 67%;" />
+> <img src=".\picture\image-20220913142206388.png" alt="image-20220913142206388" style="zoom: 67%;" />
 >
 > 
 >
 > 24.二维数组的三种声明方式（int型数组举例）：
 >
-> ​	![image-20220913155340379](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220913155340379.png)
+> ​	![image-20220913155340379](.\picture\image-20220913155340379.png)
 >
 > 25.声明数组的注意事项：
 >
@@ -307,7 +307,7 @@
 >
 > ​	后面的3也可以不写，用具体的{xx,xx,xx}替代，如下图所示，CE不行，但D就可以
 >
-> ​		<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220914141611721.png" alt="image-20220914141611721" style="zoom:50%;" />
+> ​		<img src=".\picture\image-20220914141611721.png" alt="image-20220914141611721" style="zoom:50%;" />
 >
 > 
 >
@@ -317,7 +317,7 @@
 >
 > 27.这种对数组先声明再创建的方法是可以的
 >
-> ​				<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220916100544858.png" alt="image-20220916100544858" style="zoom:50%;" />
+> ​				<img src=".\picture\image-20220916100544858.png" alt="image-20220916100544858" style="zoom:50%;" />
 >
 >  28.同数组一样，如果类中的属性不赋值，则有默认值：
 >
@@ -391,7 +391,7 @@
 >     }
 > ```
 >
-> ![image-20221104202544864](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221104202544864.png)
+> ![image-20221104202544864](.\picture\image-20221104202544864.png)
 >
 > ​			（可以理解为。value就是不可以改变的，因为它在常量池中独一份，你如果想要其它的value值，那你原来的value才不会配合你，你自己再去常量池找一个或者创建一个指向它吧！）
 >
@@ -457,7 +457,7 @@
 >
 > ​		除非显示地在类里再定义一下
 >
-> ​	<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220918213100379.png" alt="image-20220918213100379" style="zoom:50%;" />
+> ​	<img src=".\picture\image-20220918213100379.png" alt="image-20220918213100379" style="zoom:50%;" />
 >
 > 
 >
@@ -527,7 +527,7 @@
 >
 > ​	private	只对**类本身**公开（如果子类和父类在一个包里，就可以访问父类的默认属性和方法了）
 >
-> ​	<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220921135304274.png" alt="image-20220921135304274" style="zoom:67%;" />
+> ​	<img src=".\picture\image-20220921135304274.png" alt="image-20220921135304274" style="zoom:67%;" />
 >
 > ​	其实这样理解更加合理：
 >
@@ -615,9 +615,9 @@
 >
 > ​			如果向上转型，那就应该是父类的属性，如果向下转型，那就应该是子类的属性
 >
-> ​			<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220926135711704.png" alt="image-20220926135711704" style="zoom:50%;" />
+> ​			<img src=".\picture\image-20220926135711704.png" alt="image-20220926135711704" style="zoom:50%;" />
 >
-> ​			<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220926135737947.png" alt="image-20220926135737947" style="zoom:50%;" />
+> ​			<img src=".\picture\image-20220926135737947.png" alt="image-20220926135737947" style="zoom:50%;" />
 >
 > ​			（学到目前的浅显理解，不一定对，但目前来看逻辑融洽 2022.09.26）
 >
@@ -662,11 +662,11 @@
 > 
 >
 >     ==既能判断引用数据类型，又能判断基本数据类型
->                     
+>                         
 >     ​	当判断基本数据类型时，只判断值是否相等即可，比如10==10.0 结果为true；
->                     
+>                         
 >     ​	当判断引用数据类型时，只判断地址是否相等（是Object类equals方法的底层逻辑）；
->                     
+>                         
 >     （String在==看来是引用数据类型，如果用==比较两个字符串的话会只看地址不看内容，所以判断两个字符串是否相同还是得用equals(）;
 >
 > 
@@ -701,13 +701,13 @@
 >
 > ​	Object的toString方法默认返回  全类名（包名+类名）+@+十六进制形式的哈希值
 >
-> ​	<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220926204757637.png" alt="image-20220926204757637" style="zoom:67%;" />
+> ​	<img src=".\picture\image-20220926204757637.png" alt="image-20220926204757637" style="zoom:67%;" />
 >
 > ​	子类往往会重写toString方法，用于返回对象的属性信息
 >
 > <img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220926205230514.png" alt="image-20220926205230514" style="zoom:67%;" />
 >
-> ​           	<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220926205300634.png" alt="image-20220926205300634" style="zoom:67%;" />
+> ​           	<img src=".\picture\image-20220926205300634.png" alt="image-20220926205300634" style="zoom:67%;" />
 >
 > ​	当直接输出一个对象时，toString 方法会被默认的调用
 >
@@ -733,9 +733,9 @@
 >
 > ​	用于判断左边对象的运行类是不是右边类或者其子类
 >
-> ​	看下面代码![image-20220930174853176](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220930174853176.png)
+> ​	看下面代码![image-20220930174853176](.\picture\image-20220930174853176.png)
 >
->  这个obj，虽然是个引用，但是它既有编译类型，又有运行类型<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20220930180138218.png" alt="image-20220930180138218" style="zoom:50%;" />，**所以，不要一提到引用就觉得是编译类型。而是引用都同时包含了两种类型，比如obj**
+>  这个obj，虽然是个引用，但是它既有编译类型，又有运行类型<img src=".\picture\image-20220930180138218.png" alt="image-20220930180138218" style="zoom:50%;" />，**所以，不要一提到引用就觉得是编译类型。而是引用都同时包含了两种类型，比如obj**
 >
 > ​	传入equals方法后，不管它的编译类型是啥，都被向上转型为Object祖宗类，（所以最后还要来一个向下转型才能使其访问Doctor类的属性）
 >
@@ -837,7 +837,7 @@
 >
 > ​		python要求迭代器本身也是可迭代的（**也就是说迭代器对象本身也是可迭代对象**，下面截图的代码也就合理了），也就是说，迭代器类中也要有__ iter __方法（只要有iter方法就是可迭代对象），所以在我们自己写一个迭代器类的时候，不光要写next方法，还要写一个iter方法，方法要返回一个迭代器（可迭代类的iter也要返回一个迭代器），只要返回自身self就可以了。
 >
-> ![image-20221004181817940](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221004181817940.png)
+> ![image-20221004181817940](.\picture\image-20221004181817940.png)
 >
 > ​		这个得解释以下，这里的FibIterator即是一个可迭代类，又是一个迭代器（因为有 next），在for循环里首先把它当作一个可迭代对象，返回它的迭代器，也就是它自己，然后for循环自动调用迭代器的next方法，也就是它自己的next方法。
 >
@@ -1202,7 +1202,7 @@ class GirFriend{
 
 ​			直接调用final static修饰的属性，不会加载该类，节省了内存空间。
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221025184903574.png" alt="image-20221025184903574" style="zoom: 50%;" />
+<img src=".\picture\image-20221025184903574.png" alt="image-20221025184903574" style="zoom: 50%;" />
 
 ​		比如这段代码，只会输出10000，而不会输出静态代码块里的语句，说明该类没被加载。（底层编译器做的优化）
 
@@ -1282,25 +1282,25 @@ class GirFriend{
 
 ​			接口Interface：定义了一些必须要实现的功能/方法（制作一种接口）
 
-​					<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221025212024770.png" alt="image-20221025212024770" style="zoom: 67%;" />
+​					<img src=".\picture\image-20221025212024770.png" alt="image-20221025212024770" style="zoom: 67%;" />
 
 ​			implement 接口的”被控制类“：实现了接口定义的功能/方法（根据接口规范制作自己的”设备“）
 
-​					<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221025212058908.png" alt="image-20221025212058908" style="zoom:50%;" />
+​					<img src=".\picture\image-20221025212058908.png" alt="image-20221025212058908" style="zoom:50%;" />
 
 ​			将实现接口方法的”被控制类“作为方法传入参数的”控制类“：该方法可以调用传入的被控制类实现的”接口规定的方法“
 
-​					<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221025212331256.png" alt="image-20221025212331256" style="zoom:50%;" />
+​					<img src=".\picture\image-20221025212331256.png" alt="image-20221025212331256" style="zoom:50%;" />
 
 ​					（相当于computer给自己安装了一个usb接口，可以说是非常形象了）
 
 ​		**跑起来看看（接口使用流程）：**
 
-​					<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221025212654846.png" alt="image-20221025212654846" style="zoom: 50%;" />
+​					<img src=".\picture\image-20221025212654846.png" alt="image-20221025212654846" style="zoom: 50%;" />
 
 ​	结果：
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221025212723615.png" alt="image-20221025212723615" style="zoom:50%;" />
+<img src=".\picture\image-20221025212723615.png" alt="image-20221025212723615" style="zoom:50%;" />
 
 
 
@@ -1422,11 +1422,11 @@ class Car implements IF{
 
 ​	在computer这种利用usb接口“控制“手机和相机的类中，控制方法（相当于给计算机安装的接口）work中传入的本应是一个”接口本身“。
 
-​		<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221026232438256.png" alt="image-20221026232438256" style="zoom:50%;" />
+​		<img src=".\picture\image-20221026232438256.png" alt="image-20221026232438256" style="zoom:50%;" />
 
 ​	但是在实际使用时我们传入的都是实现了接口功能f的实现类，如phone和camera
 
-​		<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221026232948296.png" alt="image-20221026232948296" style="zoom:50%;" />
+​		<img src=".\picture\image-20221026232948296.png" alt="image-20221026232948296" style="zoom:50%;" />
 
 ​	以上这种”行为“便是接口作为”多态参数“传入。
 
@@ -1501,7 +1501,7 @@ class Teacher implements IG {
 
 ### 文件头file header 设置
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221028154000848.png" alt="image-20221028154000848" style="zoom:50%;" />
+<img src=".\picture\image-20221028154000848.png" alt="image-20221028154000848" style="zoom:50%;" />
 
 ​	图中绿色部分，叫做文件头，用来说明”代码的版权“之类的，project设置文件头之后，在生成的每一个.java文件中都会有一个文件头
 
@@ -1627,7 +1627,7 @@ enum Season02 {//类
 
 ​	1）使用enum关键字的枚举类，默认会继承**java.lang.Enum类**（因为java的单继承机制，所以enum定义的枚举类不可以再继承其他类，但可以实现接口），而且该枚举类是一个final修饰的不可继承类。（使用javap可以查看enum构造的Season2类的信息）
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221028164952803.png" alt="image-20221028164952803" style="zoom: 50%;" />
+<img src=".\picture\image-20221028164952803.png" alt="image-20221028164952803" style="zoom: 50%;" />
 
 ​	2）当SPRING("春天","温暖")不传入参数，也就是调用无参构造器时，小括号可以省略，写成SPRING;
 
@@ -1767,9 +1767,9 @@ public @interface Override {
 
 ​	1.用于表示某个程序元素（包、类、方法、属性、字段、参数等）已经过时，但不代表不能用（只是会在源代码的数据元素上加上中划线，用于辨认）
 
-​	<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031170501545.png" alt="image-20221031170501545" style="zoom:50%;" />
+​	<img src=".\picture\image-20221031170501545.png" alt="image-20221031170501545" style="zoom:50%;" />
 
-​	<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031170516542.png" alt="image-20221031170516542" style="zoom: 50%;" />
+​	<img src=".\picture\image-20221031170516542.png" alt="image-20221031170516542" style="zoom: 50%;" />
 
 ​	2.@Deprecated底层代码：
 
@@ -1796,7 +1796,7 @@ public @interface Deprecated {
 
 ​	1.用于**抑制编译器警告**，下面介绍什么是编译器警告：
 
-​		<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031173616592.png" alt="image-20221031173616592" style="zoom: 50%;" />
+​		<img src=".\picture\image-20221031173616592.png" alt="image-20221031173616592" style="zoom: 50%;" />
 
 
 
@@ -1816,11 +1816,11 @@ public @interface Deprecated {
 
 ​		解释”属性“：警告类型有很多种，比如下面这种unchecked警告、rawtype警告和neverused警告
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031174303178.png" alt="image-20221031174303178" style="zoom: 50%;" />
+<img src=".\picture\image-20221031174303178.png" alt="image-20221031174303178" style="zoom: 50%;" />
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031174505878.png" alt="image-20221031174505878" style="zoom: 50%;" />
+<img src=".\picture\image-20221031174505878.png" alt="image-20221031174505878" style="zoom: 50%;" />
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031174553176.png" alt="image-20221031174553176" style="zoom: 67%;" />
+<img src=".\picture\image-20221031174553176.png" alt="image-20221031174553176" style="zoom: 67%;" />
 
 ​	属性就代表了需要屏蔽的警告类型，包括以下这么多：
 
@@ -1907,9 +1907,9 @@ public @interface SuppressWarnings {
 
 ​			点入该方法页面也可以看到保留的@Deprecated注解
 
-![image-20221031181048414](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031181048414.png)
+![image-20221031181048414](.\picture\image-20221031181048414.png)
 
-![image-20221031181112559](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031181112559.png)
+![image-20221031181112559](.\picture\image-20221031181112559.png)
 
 ​		
 
@@ -1940,7 +1940,7 @@ public class Exception01 {
 }
 ```
 
-​		运行后会出现以下报错：![image-20221101150221598](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101150221598.png)
+​		运行后会出现以下报错：![image-20221101150221598](.\picture\image-20221101150221598.png)
 
 ​		报错分析：
 
@@ -1978,7 +1978,7 @@ public class Exception01 {
 
 ​		快捷方式，将int 热水 = num1/num2选中，ctrl+alt+t，选择6.try/catch,就会直接把这段代码包在try-catch里。
 
-![image-20221101152026155](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101152026155.png)
+![image-20221101152026155](.\picture\image-20221101152026155.png)
 
 ​		虽然还是跟刚才一样报错，但是程序确继续执行了，说明：
 
@@ -1986,7 +1986,7 @@ public class Exception01 {
 
 ​			2）红色报错部分是Exception类printStackTrace方法（由具体的ArithmeticException类又重写）的输出。
 
-​		如果把e.printStackTrace()换成System.out.println(e.getMessage())，则会得到下面这样的输出。![image-20221101152520789](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101152520789.png)
+​		如果把e.printStackTrace()换成System.out.println(e.getMessage())，则会得到下面这样的输出。![image-20221101152520789](.\picture\image-20221101152520789.png)
 
 ​		说明getMessage()方法返回的是**具体错误原因的字符串**
 
@@ -2006,7 +2006,7 @@ public class Exception01 {
 
 
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031215528692.png" alt="image-20221031215528692" style="zoom:67%;" />
+<img src=".\picture\image-20221031215528692.png" alt="image-20221031215528692" style="zoom:67%;" />
 
 ​		
 
@@ -2020,17 +2020,17 @@ public class Exception01 {
 
 ​			会出现以下图片，因为该文件中只有Throwable类，所以初始只会显示Throwable类，绿色I标代表它实现了Serializable接口
 
-![image-20221101143340324](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101143340324.png)
+![image-20221101143340324](.\picture\image-20221101143340324.png)
 
 ​			右键点击Throwable框，可以看到有show Implementation选项，点击它，就会跳出如下窗口。
 
-![image-20221101143659758](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101143659758.png)
+![image-20221101143659758](.\picture\image-20221101143659758.png)
 
 ​			Implementation of  Throwable，这些都是Throwable的子类或者后代类，点击对应的类就会自动跳出该类的方框，自动显示该方框与原所选框内类（Throwable类）的关系。
 
 ​			这里就不调出所有的子类了，太多了，图片装不下，就挑一些常见的部分。
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221031215528692.png" alt="image-20221031215528692" style="zoom:67%;" />
+<img src=".\picture\image-20221031215528692.png" alt="image-20221031215528692" style="zoom:67%;" />
 
 ​		可以看到：
 
@@ -2123,7 +2123,7 @@ public class NumberFormatException_ {
 
 ​	一般发生在网络，数据库或者文件操作的时候，常见有以下种类：
 
-![image-20221101160023093](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101160023093.png)
+![image-20221101160023093](.\picture\image-20221101160023093.png)
 
 
 
@@ -2149,13 +2149,13 @@ try{
 //后面的代码
 ```
 
-​	**throws**将发生的异常抛给上一级调用者（方法）来处理，最顶级的调用者就是JVM。![image-20221101180222173](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101180222173.png)
+​	**throws**将发生的异常抛给上一级调用者（方法）来处理，最顶级的调用者就是JVM。![image-20221101180222173](.\picture\image-20221101180222173.png)
 
 ​	在除了JVM的任一级的调用者之间可以实现一个try-catch-finally，当异常反向传回该方法时就能被处理，程序继续执行。
 
 ​	但是如果这些调用者都不实现，最终到了JVM，JVM会**输出异常（Exception类printStackTrace方法）**，并且**退出程序**，也就是出现异常时默认的处理方式！！！
 
-​	注意！main方法内如果没有出现try-catch-finally。默认就会在方法名之后加一个throws Exception，如下图（默认甩锅）![	](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101180843142.png)
+​	注意！main方法内如果没有出现try-catch-finally。默认就会在方法名之后加一个throws Exception，如下图（默认甩锅）![	](.\picture\image-20221101180843142.png)
 
 ​	但是其他要甩锅的方法必须显式声明throws（很不准确，后面讲throws细节的时候还会再讲！！）
 
@@ -2176,15 +2176,15 @@ try{
 //在hsp的pdf内的第552页
 ```
 
-​	3）finally一定要被执行，特别是碰到多个return的时候。![image-20221101190528261](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101190528261.png)
+​	3）finally一定要被执行，特别是碰到多个return的时候。![image-20221101190528261](.\picture\image-20221101190528261.png)
 
 ​	这种情况return 4，而不是3，说明finally一定要执行
 
-​	![image-20221101190629034](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101190629034.png)
+​	![image-20221101190629034](.\picture\image-20221101190629034.png)
 
 ​			return4而不是3说明return ++i不是没执行，而是先执行了++i，然后再执行finally，如果finally中有return就执行finally的return，如果没有就返回来执行return。
 
-![image-20221101190921787](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221101190921787.png)
+![image-20221101190921787](.\picture\image-20221101190921787.png)
 
 ​		这里先输出i=4，再输出3，说明finally中对常量的改变不会影响到catch中的常量，catch中会先把i存给temp。
 
@@ -2306,7 +2306,7 @@ class AgeException extends RuntimeException {
 
 ​		Integer就是int的包装类
 
-​		java有八种基本数据类型，对应八种包装类，如图：![image-20221102192101116](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221102192101116.png)
+​		java有八种基本数据类型，对应八种包装类，如图：![image-20221102192101116](.\picture\image-20221102192101116.png)
 
 ​		说明：
 
@@ -2314,9 +2314,9 @@ class AgeException extends RuntimeException {
 
 ​		2）黄色底的几个类都是Number的子类，其它两个是独立的类（Object的直接子类）。继承关系图对比如下：
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221102192647537.png" alt="image-20221102192647537" style="zoom:50%;" />
+<img src=".\picture\image-20221102192647537.png" alt="image-20221102192647537" style="zoom:50%;" />
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221102192720405.png" alt="image-20221102192720405" style="zoom:67%;" />
+<img src=".\picture\image-20221102192720405.png" alt="image-20221102192720405" style="zoom:67%;" />
 
 
 
@@ -2372,7 +2372,7 @@ public static void main(String[] args) {
 
 ​		但为什么第二个和第三个输出的结果反倒不一样呢？这得先搞清楚两种创建方法的区别了：
 
-​		new Integer（...）是手动包装，肯定返回一个新对象；第二三种情况是自动包装，自动包装底层代码是valueOf代码，如下：![image-20221102203404327](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221102203404327.png)
+​		new Integer（...）是手动包装，肯定返回一个新对象；第二三种情况是自动包装，自动包装底层代码是valueOf代码，如下：![image-20221102203404327](.\picture\image-20221102203404327.png)
 
 ​		IntegerCache是Integer类的一个静态成员内部类，其内有静态字段low，high和静态Integer数组cache，low为-128，high为127，cache数组有256个Integer对象，如果valueOf要创建的Integer数在-128和127之间，就直接返回cache中存的对象，不会执行下面的new Integer（）。
 
@@ -2416,7 +2416,7 @@ System.out.println(i1 == i2)	//结果为True
 
 ​	1）String类体系图
 
-![image-20221103134408534](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221103134408534.png)
+![image-20221103134408534](.\picture\image-20221103134408534.png)
 
 ​	实现了三个接口：
 
@@ -2430,7 +2430,7 @@ System.out.println(i1 == i2)	//结果为True
 
 ​	2）有很多构造器，很多很多，熟悉常用的即可。
 
-![image-20221103134258308](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221103134258308.png)
+![image-20221103134258308](.\picture\image-20221103134258308.png)
 
 ​	
 
@@ -2562,7 +2562,7 @@ String c = a + b;
 
 ​			**String c = sb.toString();**
 
-​	<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20230623181049842.png" alt="image-20230623181049842" style="zoom:50%;" />
+​	<img src=".\picture\image-20230623181049842.png" alt="image-20230623181049842" style="zoom:50%;" />
 
 ​			new String("abc")既会创建堆中的对象，又会创建常量池中的对象！（因为需要它的value指向常量池中的对象value指向的char[]）
 
@@ -2649,7 +2649,7 @@ sout(str)	//"aaa and bbb bbb bbb"
 
 > StringBuffer
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20230623222018474.png" alt="image-20230623222018474" style="zoom:50%;" />
+<img src=".\picture\image-20230623222018474.png" alt="image-20230623222018474" style="zoom:50%;" />
 
 1. StringBuffer的数据存在其父类AbstractStringBuilder的成员变量char[] value里，所以在构造StringBuffer时需要声明大小，直接new StringBuffer()的话大小为16，new StringBuffer(String str)的话char[]的大小就为str.length()+16。
 
@@ -2684,9 +2684,9 @@ StringBuffer sb1 = new StringBuffer(str);
 
 ​	与StringBuffer的继承关系完全相同
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221206205054844.png" alt="image-20221206205054844" style="zoom:67%;" />
+<img src=".\picture\image-20221206205054844.png" alt="image-20221206205054844" style="zoom:67%;" />
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221206205121524.png" alt="image-20221206205121524" style="zoom:80%;" />
+<img src=".\picture\image-20221206205121524.png" alt="image-20221206205121524" style="zoom:80%;" />
 
 
 
@@ -2708,9 +2708,9 @@ StringBuffer sb1 = new StringBuffer(str);
 
 > 为什么Buffer适用于多线程而Builder不适用？
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221206205925820.png" alt="image-20221206205925820" style="zoom:50%;" />
+<img src=".\picture\image-20221206205925820.png" alt="image-20221206205925820" style="zoom:50%;" />
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221206205952310.png" alt="image-20221206205952310" style="zoom:50%;" />
+<img src=".\picture\image-20221206205952310.png" alt="image-20221206205952310" style="zoom:50%;" />
 
 ​	如图，Buffer的方法都有synchronized关键字，而builder没有，也就是说前者有互斥处理，
 
@@ -2761,7 +2761,7 @@ System.out.println("parse=" + sdf.format(parse)); //parse=1996年01月01日 10:2
 ```
 
 sdf格式参数中y、M、d这些都是由特殊含义的，具体如下图：
-![image-20221209201349160](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221209201349160.png)
+![image-20221209201349160](.\picture\image-20221209201349160.png)
 
 
 
@@ -2775,9 +2775,9 @@ sout(date) //输出：Thu Jan 01 13:55:12 CST 1970
 
 > 第二代日期类：Calendar
 
-![image-20221209204350069](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221209204350069.png)
+![image-20221209204350069](.\picture\image-20221209204350069.png)
 
-​	<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20230625175723506.png" alt="image-20230625175723506" style="zoom:50%;" />
+​	<img src=".\picture\image-20230625175723506.png" alt="image-20230625175723506" style="zoom:50%;" />
 
 ​	1.类继承图跟Date类一摸一样 ❌
 
@@ -2815,7 +2815,7 @@ System.out.println("秒：" + c.get(Calendar.SECOND))；
 
  	1.Date类被弃用：jdk1.1引入Calendar后就被启用了
 
-​	2.Calendar类的缺点：1234![image-20221209212031723](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221209212031723.png)
+​	2.Calendar类的缺点：1234![image-20221209212031723](.\picture\image-20221209212031723.png)
 
 ​	3.于是再JDK8加入了三个新的日期类
 
@@ -2825,7 +2825,7 @@ System.out.println("秒：" + c.get(Calendar.SECOND))；
 
 ​			LocalDateTime包括前两者
 
-​			接口很复杂，所以功能强大<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221209212652786.png" alt="image-20221209212652786" style="zoom: 33%;" />
+​			接口很复杂，所以功能强大<img src=".\picture\image-20221209212652786.png" alt="image-20221209212652786" style="zoom: 33%;" />
 
 
 
@@ -2842,7 +2842,7 @@ LocalTime lt = LocalTime.now();//21:39:14.624
 //注意：getMonth得到的是March这种英文字符串，getMonthValue得到的才是 345这种数字
 ```
 
-![image-20221209214520955](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221209214520955.png)
+![image-20221209214520955](.\picture\image-20221209214520955.png)
 
 ### System
 
@@ -2914,7 +2914,7 @@ Integer arrNew[]  = Arrays.copyOf(arr,arr.length);
 
 ​	功能：将array转化为List，转化后的运行类型是ArrayList（是Arrays的一个内部类）
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221207183343772.png" alt="image-20221207183343772" style="zoom:50%;" />
+<img src=".\picture\image-20221207183343772.png" alt="image-20221207183343772" style="zoom:50%;" />
 
 ```java
 Integer[] ints = {9,3,3,2,2,4,3,9};
@@ -2962,52 +2962,15 @@ bigDecimal.divide(bigDecimal2, BigDecimal.ROUND_CEILING)；
 
 ​	也就是说，当结果为正数的时候，二组作用就相同了；若为负数，则二组作用正好相反
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221209185205350.png" alt="image-20221209185205350" style="zoom: 67%;" />
+<img src=".\picture\image-20221209185205350.png" alt="image-20221209185205350" style="zoom: 67%;" />
 
-![image-20221209185220697](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221209185220697.png)
+![image-20221209185220697](.\picture\image-20221209185220697.png)
 
 
 
-## 记录八 集合
 
-> 增强for循环的底层原理
 
-​	底层其实也是iterator（增强for循环只适用于数组和集合类）
 
-```java
-List<Integer> list = new ArrayList();
-Iterator<Integer> iterator = list.iterator();
-for(Integer num:list){  // 在这一行打断点
-
-}
-
-// 断点会依次进入ArrayList的iterator方法和hasNext、next()方法，
-// 这几个方法都是Iterator接口定义的方法，而List的”爷爷“是Iterable接口，其只是返回了一个iterator对象
-// 所有这三个方法不是Iterable定义的而是Iterator定义的！！
-public interface Iterable<T> {
-    /**
-     * Returns an iterator over elements of type {@code T}.
-     *
-     * @return an Iterator.
-     */
-    Iterator<T> iterator();
-}
-```
-
-增强for循环所作的事情可以概括为：
-	1.调用集合类实现的Iterable数组的iterator方法，返回一个Iterator对象
-
-​	2.交替调用该对象的hasNext()和next()方法
-
-所以下面这种代码是不对的
-
-```java
-List<Integer> list = new ArrayList();
-Iterator<Integer> iterator = list.iterator();
-for(Integer num:iterator){}
-
-// 返回Iterator对象只是增强for循环所作的一部分！！所以上面完全不够！！
-```
 
 
 
@@ -3038,7 +3001,7 @@ for(int i:nums){
 
 ### fields和properties
 
-​	![image-20221209190905391](C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20221209190905391.png)
+​	![image-20221209190905391](.\picture\image-20221209190905391.png)
 
 ​	IDEA的java类中的这两个组成成分容易搞混，解释下：
 
@@ -3065,7 +3028,7 @@ for(int i:nums){
 
 ### surround with
 
-<img src="C:\Users\15054\AppData\Roaming\Typora\typora-user-images\image-20230625185436247.png" alt="image-20230625185436247" style="zoom:50%;" />
+<img src=".\picture\image-20230625185436247.png" alt="image-20230625185436247" style="zoom:50%;" />
 
 一段代码想要被if/for/try_catch包在里面，可以用这个快捷键：
 **ctrl + alt + t**
@@ -3074,13 +3037,13 @@ for(int i:nums){
 
 ## 快捷键
 
-> 显示所有的快捷键
+> 显示所有快捷键
 
 ctrl + j
 
 
 
-> 快速生成带迭代器的while
+> 快速生成到迭代器的while
 
 itit
 
@@ -3092,17 +3055,14 @@ ctrl + alt + t
 
 
 
-> 类中快速添加getter/setter/constructor等
+> 类中快速添加get/set/constructor等
 
 alt + insert
-
 
 
 > 增强for循环
 
 I
-
-E
 
 ## 其它知识
 
